@@ -2,13 +2,9 @@
 
 **Automated order intake, duplicate detection, order tracking, and email alerts — built with n8n.**
 
-![E-commerce Order Automation overview](ecommerce-order-automation.png)
+![E-commerce Order Automation workflow](E-commerce%20Order%20Automation.png)
 
-## Actual n8n Workflow
-
-The screenshot below shows the **real seven-node workflow** used in this project, not a mock-up.
-
-![Actual n8n workflow showing all seven nodes](n8n-workflow.png)
+The screenshot above shows the **real seven-node workflow** used in this project, not a mock-up.
 
 ## Project Overview
 
