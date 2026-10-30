@@ -4,7 +4,7 @@
 
 ![E-commerce Order Automation workflow](E-commerce%20Order%20Automation.png)
 
-The screenshot above shows the **real seven-node workflow** used in this project, not a mock-up.
+The diagram above illustrates the seven-node architecture implemented and tested in n8n.
 
 ## Project Overview
 
